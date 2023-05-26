@@ -87,7 +87,7 @@ Welcome to the light documentation of React Next Boilerplate!
 
 ## Setup
 
-Either click [this link](https://runme.dev/api/runme?repository=https%3A%2F%2Fgithub.com%2Freact-next-boilerplate%2Freact-next-boilerplate.git&fileToOpen=README.md) or manually clone this repo and move to the appropiate directory via:
+Either click [this link](https://runme.dev/api/runme?repository=https%3A%2F%2Fgithub.com%2Fchristian-bromann%2Freact-next-boilerplate.git&fileToOpen=README.md) or manually clone this repo and move to the appropiate directory via:
 
 ```bash
 git clone --depth=1 https://github.com/react-next-boilerplate/react-next-boilerplate.git <YOUR_PROJECT_NAME>`
